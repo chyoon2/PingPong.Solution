@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using PingPong2.Models;
+using Game.Models;
 
 namespace Game
 {
@@ -11,10 +11,20 @@ public class Program
     
     Console.WriteLine("Enter a number:");
     string stringUserNumber = Console.ReadLine();
-    int userNumber = int.Parse(stringUserNumber)
-    
+    int userNumber = int.Parse(stringUserNumber);
+
+    List<PingNumber> PingNumbers = list<PingNumber>() {}
     }
   }
 
 }
+//for loop
+// i =1 i<serNumber
 
+// if (i%3)
+// print ping
+// if (i%5)
+// print pong
+
+// else
+// print i
