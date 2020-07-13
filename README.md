@@ -2,7 +2,7 @@ Behavior: Program recieves an input of number.
 Input: "4"
 Output: n/a
 
-Behavior: Program returns an interation of numbers "up to" the input number.
+Behavior: Program returns an iteration of numbers "up to" the input number.
 Input: "5"
 Output: 1, 2, 3, 4, 5
 
